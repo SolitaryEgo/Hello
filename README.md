@@ -3,4 +3,4 @@
 
 <img width="400" height="140" src="https://card.yuy1n.io/card/76561198326110511/dark,badge,group">
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolitaryEgo&show_icons=true&theme=radical)
