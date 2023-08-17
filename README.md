@@ -3,4 +3,4 @@
 
 <img width="400" height="140" src="https://card.yuy1n.io/card/76561198326110511/dark,badge,group">
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolitaryEgo&theme=radical&layout=compact"  />
+![decription](https://img.shields.io/badge/Language-Python-green)
