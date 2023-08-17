@@ -3,4 +3,4 @@
 
 <img width="400" height="140" src="https://card.yuy1n.io/card/76561198326110511/dark,badge,group">
 
-![decription](https://img.shields.io/badge/Language-Python-blue)
+![decription](https://img.shields.io/badge/Language-Python-blue)![decription](https://img.shields.io/badge/Language-JavaScript-white)![decription](https://img.shields.io/badge/Language-CSS-red)
